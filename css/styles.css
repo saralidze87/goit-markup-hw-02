@@ -220,6 +220,7 @@ body {
   color: var(--main-btn-color);
   background-color: var(--link-text-color);
 }
+
 .main-btn-color:hover {
   color: var(--main-btn-color);
   background-color: var(--link-text-color);
