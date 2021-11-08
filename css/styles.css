@@ -34,9 +34,6 @@ body {
 .header-link:focus {
   color: var(--link-text-color);
 }
-.header-link:active {
-  color: white;
-}
 
 .header-logo-web {
   font-family: Raleway;
